@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://addons/flight_navigation_3d/core/src/visualizer/svo_visualizer_subgrid.gd" id="1_subgrid"]
+
+[node name="SvoVisualizerSubgrid" type="Node3D"]
+script = ExtResource("1_subgrid")
+
+[node name="Voxels" type="MultiMeshInstance3D" parent="."]

@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://addons/flight_navigation_3d/core/src/svo_voxelizer.gd" id="1_vxogv"]
+
+[node name="SvoVoxelizer" type="Node"]
+script = ExtResource("1_vxogv")

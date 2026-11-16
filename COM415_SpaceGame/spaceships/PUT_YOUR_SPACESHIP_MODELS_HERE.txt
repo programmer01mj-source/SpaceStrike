@@ -1,0 +1,2 @@
+Copy your spaceship model files (.gltf / .glb / .fbx / .obj) into THIS folder.
+The game finds them automatically. See SETUP_GUIDE.md (project root), Part 2.

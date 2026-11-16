@@ -1,0 +1,2 @@
+Copy your audio files (.ogg / .wav / .mp3) into THIS folder (sub-folders are fine).
+The game finds them automatically by file name. See SETUP_GUIDE.md (project root), Part 3.
